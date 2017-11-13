@@ -1,0 +1,7 @@
+[{"name":"name","genre":"genre"},
+  {"name":"titanic","genres":"romantic"},
+  {"name":"friends","genres":"comedy"},
+  {"name":"two and half man","genres":"comedy"},
+  {"name":"NFS","genres":"action"},
+  {"name":"death note", "genres":"animation"},
+  {"name":"saw","genres":"horror"}]
